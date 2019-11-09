@@ -1,3 +1,4 @@
+# Container Image for simple and useful utilities  on alpine linux
 FROM docker.io/alpine:3.10.3
 
 LABEL AUTHOR=jrpamid.cloudops@gmail.com \
